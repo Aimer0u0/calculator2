@@ -59,6 +59,7 @@ public class DBHelper extends SQLiteOpenHelper {//数据库操作类
         return list;
     }
 
+    //删除表达式
     public void deleteRecords(String calcName){//删除表达式
         db=getWritableDatabase();
         String[] value ={calcName};
