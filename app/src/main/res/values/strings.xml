@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">计算器</string>
+    <string name="action_settings">Settings</string>
+    <string name="stdCal">标准计算器</string>
+    <string name="sciCal">科学计算器</string>
+    <string name="unitCal">单位转换器</string>
+    <string name="FullCal">计算器App</string>
+    <string name="title_activity_standard_cal">标准计算</string>
+    <string name="title_activity_scientific_cal">科学计算</string>
+    <string name="title_activity_unit_coverter">单位转换</string>
+    <string name="clear">C</string>
+    <string name="backspace">⌫</string>
+    <string name="divide">÷</string>
+    <string name="sqrt">√</string>
+    <string name="cuberoot">\u221B</string>
+    <string name="square">x²</string>
+    <string name="cube">x\u00B3</string>
+    <string name="tenpow">10\u207F</string>
+    <string name="sininv">sin\u207B\u00B9</string>
+    <string name="cosinv">cos\u207B\u00B9</string>
+    <string name="taninv">tan\u207B\u00B9</string>
+    <string name="posneg">±</string>
+    <string name="arrow">↑</string>
+    <string name="xpown">xⁿ</string>
+    <string name="epown">eⁿ</string>
+    <string name="pi">π</string>
+    <string name="title_activity_unit_area">单位面积</string>
+    <string name="title_activity_unit_length">单位长度</string>
+    <string name="title_activity_unit_weight">单位质量</string>
+    <string name="title_activity_unit_temperature">单位温度</string>
+    <string name="openBracket">(</string>
+    <string name="closeBracket">)</string>
+    <string name="history">历史记录</string>
+
+    <string-array name="area">
+        <item>平方毫米</item>
+        <item>平方厘米</item>
+        <item>平方米</item>
+        <item>平方公里</item>
+        <item>英亩</item>
+        <item>公顷</item>
+    </string-array>
+
+    <string-array name="length">
+        <item>纳米</item>
+        <item>毫米</item>
+        <item>厘米</item>
+        <item>米</item>
+        <item>公里</item>
+        <item>英寸</item>
+        <item>英尺</item>
+        <item>码</item>
+        <item>英里</item>
+    </string-array>
+
+    <string-array name="temperature">
+        <item>摄氏度</item>
+        <item>华氏度</item>
+        <item>开尔文</item>
+    </string-array>
+
+    <string-array name="weight">
+        <item>毫克</item>
+        <item>厘克</item>
+        <item>分克</item>
+        <item>克</item>
+        <item>千克</item>
+        <item>公吨</item>
+        <item>磅</item>
+        <item>盎司</item>
+    </string-array>
+
+    <string name="title_activity_history">历史记录</string>
+    <string name="deleteHistory">删除历史记录</string>
+    <string name="mode1">Degree</string>
+    <string name="mode2">Radian</string>
+    <string name="toggle">SWITCH</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="naturalLog">ln</string>
+    <string name="hyperbolicSine">sinh</string>
+    <string name="hyperbolicCosine">cosh</string>
+    <string name="hyperbolicTan">tanh</string>
+    <string name="log">log</string>
+    <string name="Mod">%</string>
+    <string name="inverse">1/x</string>
+    <string name="factorial" >x!</string>
+    <string name="register">登录</string>
+    <string name="account">请输入账号</string>
+    <string name="password">请输入密码</string>
+    <string name="forget">忘记密码</string>
+    <string name="newuser">新用户注册</string>
+    <string name="clause">登录即代表同意服务条款</string>
+    <string name="login">注册</string>
+    <string name="again">请再次输入密码</string>
+    <string name="sex">性别</string>
+    <string name="girl">女生</string>
+    <string name="boy">男生</string>
+    <string name="school">请输入学校</string>
+</resources>
