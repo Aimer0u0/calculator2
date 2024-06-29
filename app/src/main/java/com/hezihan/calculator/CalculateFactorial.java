@@ -7,7 +7,7 @@ public class CalculateFactorial
     private int res_size;
     private final int[] res =new int[MAX];
 
-    //good job
+    //good job, you have a good design, but you can use a constructor to initialize the res_size
     CalculateFactorial()
     {
         res_size = 1;
